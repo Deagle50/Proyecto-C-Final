@@ -1,0 +1,10 @@
+﻿  funciones.c
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(34): warning C4101: 'b': variable local sin referencia
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(88): warning C4013: 'getch' sin definir; se supone que extern devuelve como resultado int
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(856): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(746): warning C4101: 'num': variable local sin referencia
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(1132): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(1133): warning C4018: '>': no coinciden signed/unsigned
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(1135): warning C4018: '>': no coinciden signed/unsigned
+c:\users\urko\source\repos\30-05v2\30-05v2\funciones.c(1175): warning C4715: 'pedirNum': no todas las rutas de acceso de control devuelven un valor
+  30-05V2.vcxproj -> C:\Users\Urko\source\repos\30-05V2\Debug\30-05V2.exe
